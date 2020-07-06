@@ -1,3 +1,5 @@
+package bank;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -7,5 +9,6 @@ public class Main {
 		Siyu.withdrawal(2000);
 		Siyu.withdrawal(500);
 		Siyu.getInfo();
+
 	}
 }
